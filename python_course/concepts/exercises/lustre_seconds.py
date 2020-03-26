@@ -1,0 +1,1 @@
+# Mostrar en pantalla la cantidad de segundos que tiene un lustro.
